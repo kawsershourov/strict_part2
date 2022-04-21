@@ -1,0 +1,1 @@
+# strict_part2
